@@ -1,7 +1,7 @@
 # Skin-Lesion-Hair-Mask-Dataset
 This repository contains codes and additional materials used for preparing a skin lesion hair segmentation mask dataset.
 
-## Link to The Prepared Dataset:
+## Link to the Prepared Dataset:
 https://data.mendeley.com/datasets/j5ywpd2p27
 
 ## Repository Contents:
