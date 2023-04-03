@@ -5,7 +5,7 @@ This repository contains codes and additional materials used for preparing a ski
 https://data.mendeley.com/datasets/j5ywpd2p27
 
 ## Repository Contents
-- Inside the **unet** folder the U-net [1] model is defined in **model.py** file, unet training is performed using the unet_training.ipynb python notebook file. the task of predicting initial masks for the dermoscopic images are done using the **predict_mask.ipynb** file.
+- Inside the **unet** folder the U-net [1] model is defined in **model.py** file, unet training is performed using the unet_training.ipynb python notebook file. The task of predicting initial masks for the dermoscopic images are done using the **predict_mask.ipynb** file.
 
 - The codes used for binarizing mask, making it transparent and creating image collage are available in the **check_annotation.ipynb** file.
 
