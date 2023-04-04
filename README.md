@@ -2,7 +2,7 @@
 This repository contains codes and additional materials used for preparing a skin lesion hair segmentation mask dataset.
 
 ## Link to the Prepared Dataset
-https://data.mendeley.com/datasets/j5ywpd2p27
+https://data.mendeley.com/datasets/j5ywpd2p27/1
 
 ## Repository Contents
 - Inside the **unet** folder the U-net [1] model is defined in **model.py** file, unet training is performed using the unet_training.ipynb python notebook file. The task of predicting initial masks for the dermoscopic images are done using the **predict_mask.ipynb** file.
